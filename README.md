@@ -1,2 +1,5 @@
 # quizlet_scraper
-Web scraper that scrapes quilt pages
+Web scraper that scrapes quizlet pages
+
+## Usage
+quizlet-scraper
