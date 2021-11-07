@@ -1,1 +1,4 @@
 quizlet.py
+node_modules/
+*.json
+*.js
